@@ -299,6 +299,3 @@ Currency::shouldReceive('rates')
 More information regarding list of bank sources [here](https://api.exchangerate.host/sources "List of bank sources")
 
 For a list of all supported symbols [here](https://api.exchangerate.host/symbols "List of supported symbols") and list of crypto currencies [here](https://api.exchangerate.host/cryptocurrencies)
-
-## License
-The MIT License (MIT). Please see [LICENSE](../master/LICENSE) for more information.
